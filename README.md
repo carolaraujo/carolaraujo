@@ -1,4 +1,4 @@
-### Desenvolvedora Front-End | Javascript | Bootstrap | JQuery | ReactJS
+### Software Developer Javascript | Java | Python
 
   Trabalhei durante 10 anos com Logística e agora estou em mudança de área para Desenvolvimento Front-End
   

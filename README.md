@@ -1,8 +1,8 @@
-### Software Developer Javascript | Java | Python
+### Software Developer Java | Spring Boot | MVC
 
   Trabalhei durante 10 anos com Logística e agora estou em mudança de área para Desenvolvimento 
   
-  Estou no primeiro semestre de Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia
+  Estou no segundo semestre de Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia
   
   Fiz o Bootcamp de Desenvolvimento Front-End na @reprograma e tenho realizado diversos cursos na área, sempre coloco os certificados e os vídeos dos projetos no Linkedin
   

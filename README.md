@@ -1,4 +1,4 @@
-### Software Developer Java | Spring Boot | MVC
+### Software Developer Java | Python | Javascript
 
   Trabalhei durante 10 anos com Logística e agora estou em mudança de área para Desenvolvimento 
   

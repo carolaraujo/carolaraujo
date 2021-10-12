@@ -1,12 +1,12 @@
-### Software Developer Java | Python | Javascript
+### Software Developer Java | Python 
 
-  Trabalhei durante 10 anos com Logística e agora estou em mudança de área para Desenvolvimento 
-  
-  Estou no terceiro semestre de Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia
-  
-  Fiz o Bootcamp de Desenvolvimento Front-End na @reprograma e tenho realizado diversos cursos na área, sempre coloco os certificados e os vídeos dos projetos no Linkedin
-  
-  Estou em constante aprendizado e sempre estou subindo aqui meus projetos de cursos e trilhas de conhecimentos que estou participando
+Sou Desenvolvedora Backend Java - Spring Boot
+
+Estou no meu terceiro semestre em Análise e Desenvolvimento de Sistemas na Faculdade Impacta
+
+No segundo semestre de 2021 participei como aluna especial na matéria Tópicos Avançados de Programação Orientada a Objetos na pós graduação do IME-USP
+
+Estou sempre em aprendizado e mantenho meus projetos atualizados por aqui 
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/carolaraujodev/)      [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ola.lorenarabelo@gmail.com)](mailto:carolaraujodev@gmail.com)
 

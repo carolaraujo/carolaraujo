@@ -2,7 +2,7 @@
 
 Sou Desenvolvedora Backend Java - Spring Boot
 
-Estou no meu terceiro semestre em Análise e Desenvolvimento de Sistemas na Faculdade Impacta
+Estou no meu quarto semestre em Análise e Desenvolvimento de Sistemas na Faculdade Impacta
 
 No segundo semestre de 2021 participei como aluna especial na matéria Tópicos Avançados de Programação Orientada a Objetos na pós graduação do IME-USP
 

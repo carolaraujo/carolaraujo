@@ -2,7 +2,7 @@
 
 Sou Engenheira de Software Backend Java | Scala | Python
 
-Estou no 04º semestre em Análise e Desenvolvimento de Sistemas na Faculdade Impacta
+Estou no 05º (e último!!!) semestre em Análise e Desenvolvimento de Sistemas na Faculdade Impacta
 
 No segundo semestre de 2021 participei como aluna especial na matéria Tópicos Avançados de Programação Orientada a Objetos na pós graduação do IME-USP
 
